@@ -1,7 +1,8 @@
 ### Hi there, I'm Enzo!! 👋
 
-- 💻 I’m currently working as a Data Science Intern at Banco Inter
-- 📈 I’m currently learning Machine Learning and AWS
+- 🟠 I’m currently working as a Data Science Intern at Banco Inter
+- 🤖 I’m currently learning Machine Learning and AWS
+- 📧 How to reach me: enzo020100@gmail.com
 
 
 </div>
